@@ -1,0 +1,26 @@
+
+body {
+  background-color: #110815;
+  color: #efefef;
+  text-align: center;
+}
+
+.bg-information-container {
+  margin: 15px 0 25px;
+  font-size: 1.2rem;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  color:  #110815;
+  background-color:  #feac32;
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border-color:  #feac32;
+  border-width: 3px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}
